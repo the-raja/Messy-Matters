@@ -5,13 +5,13 @@ import MenuCard from "../components/MenuCard";
 const fetcher = (url) => fetch(url).then((r) => r.json());
 
 const DAYS = [
-  "monday",
-  "tuesday",
-  "wednesday",
-  "thursday",
-  "friday",
-  "saturday",
-  "sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday",
+  "Sunday",
 ];
 
 export default function MenuPage() {
