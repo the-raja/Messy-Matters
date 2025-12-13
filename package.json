@@ -1,0 +1,21 @@
+{
+  "name": "messy-matters",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "import:data": "node scripts/import-data.js"
+  },
+  "dependencies": {
+    "chart.js": "4.4.0",
+    "mongodb": "^5.9.2",
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-chartjs-2": "5.2.0",
+    "react-dom": "18.2.0",
+    "swr": "2.2.0"
+  }
+}

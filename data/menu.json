@@ -1,0 +1,46 @@
+{
+  "week": {
+    "monday": {
+      "breakfast": [
+        "Rice",
+        "Dal",
+        "Salad",
+        "Chapati",
+        "Icecream"
+      ],
+      "lunch": [
+        "Rice",
+        "Dal",
+        "Mixed Veg"
+      ],
+      "snacks": [
+        "Samosa"
+      ],
+      "dinner": [
+        "Chapati",
+        "Paneer Curry",
+        "Salad"
+      ]
+    },
+    "tuesday": {
+      "breakfast": [
+        "Idli",
+        "Chutney",
+        "Tea"
+      ],
+      "lunch": [
+        "Rice",
+        "Sambar",
+        "Beans"
+      ],
+      "snacks": [
+        "Fried Rice"
+      ],
+      "dinner": [
+        "Chapati",
+        "Chana Masala",
+        "Cucumber"
+      ]
+    }
+  }
+}
