@@ -62,7 +62,7 @@ To build a **Smart Mess Feedback & Menu Portal** that allows students to share f
 
 ---
 
-## ✅ Benefits
+## Benefits
 
 - Organized and structured feedback system
 - Encourages honest feedback through anonymity
