@@ -68,7 +68,7 @@ export default function MenuPage() {
             onChange={(e) => setDay(e.target.value)}
           >
             {DAYS.map((d) => (
-              <option key={d} value={d}>
+              <option key={d} value={d.toLowerCase()}>
                 {d.charAt(0).toUpperCase() + d.slice(1)}
               </option>
             ))}

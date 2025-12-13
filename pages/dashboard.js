@@ -182,13 +182,17 @@ export default function Dashboard() {
                 "Saturday",
                 "Sunday",
               ].map((d) => (
-                <option key={d}>{d}</option>
+                <option key={d} value={d.toLowerCase()}>
+                  {d}
+                </option>
               ))}
             </select>
 
             <select value={meal} onChange={(e) => setMeal(e.target.value)}>
               {["Breakfast", "Lunch", "Snacks", "Dinner"].map((m) => (
-                <option key={m}>{m}</option>
+                <option key={m} value={m.toLowerCase()}>
+                  {m}
+                </option>
               ))}
             </select>
           </div>
