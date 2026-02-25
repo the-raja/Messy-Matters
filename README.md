@@ -12,7 +12,6 @@
 ## 🔐 Warden Login (IMPORTANT)
 
 **Warden Dashboard Password:**  
-### 👉 `warden123`
 
 - This login is **only for wardens**
 - **All wardens use the same password**
